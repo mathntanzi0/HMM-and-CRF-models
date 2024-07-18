@@ -20,13 +20,4 @@ To run the notebook, you need the following libraries:
 You can install the required libraries using:
 
 ```bash
-pip install pandas numpy nltk scikit-learn sklearn-crfsuite hmmlearn
-
-##Usage
-To run the notebook, clone the repository and open COMP703_Assignment_1.ipynb in Jupyter Notebook or Jupyter Lab.
-
-```bash
-git clone https://github.com/yourusername/Sequence-Labeling-Models.git
-cd Sequence-Labeling-Models
-jupyter notebook COMP703_Assignment_1.ipynb
-
+pip install pandas numpy nltk scikit-learn sklearn-crfsuite hmmlearn`
